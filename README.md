@@ -1,69 +1,28 @@
-# 👨‍💻 Tanjim Siam | Full-Stack Web Developer  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tanjim Siam
+====================================================================================================================================
 
-Hi, I’m **Tanjim Siam** 👋  
-A passionate **Full-Stack Web Developer** specializing in **MERN** and **Next.js**. I love building scalable, user-friendly applications and continuously learning new technologies.  
+Full-Stack Web Developer | MERN & Next.js
+-----------------------------------------
 
----
+I am a passionate Full-Stack Web Developer specializing in the MERN stack and Next.js. I focus on building scalable, user-friendly applications and continuously learning new technologies to stay ahead in modern web development.
 
-## 🛠️ Tech Stack  
+* 🌍  I'm based in Dhaka, Bangladesh
+* ✉️  You can contact me at [siam88536@gmail.com](mailto:siam88536@gmail.com)
+* 🧠  I'm currently learning GraphQl
+* 👥  I'm looking to collaborate on Interesting full-stack projects and innovative ideas
+* 💬  Ask me about I believe clean code + scalable design = long-lasting impact 🚀
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
 
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)  
-![JWT](https://img.shields.io/badge/-JWT-black?logo=json-web-tokens&logoColor=white)  
+### Socials
 
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+<p align="left"> <a href="https://www.github.com/tanzimsiamm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-## 📂 Featured Projects  
+<a href="http://www.github.com/tanzimsiamm"><img src="https://github-readme-stats.vercel.app/api?username=tanzimsiamm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tanzimsiamm's GitHub stats" /></a>
 
-- 🛒 **E-Commerce Platform** – Full-stack MERN app with JWT auth, payments, and admin panel  
-- 🚗 **Car Rental Reservation System** – Next.js + Redux + TypeScript with real-time dashboards  
-- 💬 **Social Media App** – MERN + Next.js with authentication, posts, and comments  
-
-👉 Explore more projects in my [Repositories](https://github.com/tanjimsiam?tab=repositories)  
-
----
-
-## 📊 GitHub Stats  
-
-![Tanjim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanjimsiam&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimsiam&layout=compact&theme=default)  
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced **Next.js 15** (App Router, Middleware, Edge Functions)  
-- **Data Structures & Algorithms (DSA)**  
-- **Linux** for development environments  
-- Exploring **AI + Quantum-Safe Web Development**  
-
----
-
-## 🤝 Connect with Me  
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-
----
-
-### 💡 Quote  
-> “Great software is built at the intersection of **clean code**, **scalable design**, and **continuous learning**.”  
+<a href="https://github.com/tanzimsiamm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimsiamm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
