@@ -7,7 +7,7 @@ Full-Stack Web Developer | MERN & Next.js
 I am a passionate Full-Stack Web Developer specializing in the MERN stack and Next.js. I focus on building scalable, user-friendly applications and continuously learning new technologies to stay ahead in modern web development.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My Portfolio](http://https://my-portfolio-liart-kappa-21.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://my-portfolio-liart-kappa-21.vercel.app)
 * ✉️  You can contact me at [siam88536@gmail.com](mailto:siam88536@gmail.com)
 * 🧠  I'm currently learning SQL
 * 👥  I'm looking to collaborate on Interesting full-stack projects and innovative ideas
