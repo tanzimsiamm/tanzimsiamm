@@ -9,7 +9,7 @@ I am a passionate Full-Stack Web Developer specializing in the MERN stack and Ne
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://my-portfolio-liart-kappa-21.vercel.app)
 * ✉️  You can contact me at [tanjim.siyam.tech@gmail.com](mailto:tanjim.siyam.tech@gmail.com)
-* 🧠  I'm currently learning SQL
+* 🧠  I'm currently learning NestJS, SQL
 * 👥  I'm looking to collaborate on Interesting full-stack projects and innovative ideas
 * 💬  Ask me about I believe clean code + scalable design = long-lasting impact 🚀
 
