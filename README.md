@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tanjim Siddiki Siyam
 =============================================================================================================================================
 
-Full-Stack Web Developer | MERN & Next.js
+Full-Stack Web Developer
 -----------------------------------------
 
 I am a passionate Full-Stack Web Developer specializing in the MERN stack and Next.js. I focus on building scalable, user-friendly applications and continuously learning new technologies to stay ahead in modern web development.
