@@ -51,13 +51,6 @@ Focused on clean code, system design, and backend architecture.
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanzimsiamm&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimsiamm&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160"/>
-
----
-
 ### 🔗 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-tanzimsiamm-181717?style=flat-square&logo=github)](https://github.com/tanzimsiamm)
