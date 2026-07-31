@@ -16,7 +16,7 @@ Focused on clean code, system design, and backend architecture.
 ### 🧠 About Me
 
 - 🔭 Currently working as a **Full-Stack Developer**
-- 🌱 Learning **NestJS, PostgreSQL, System Design & Advanced Backend Architecture**
+- 🌱 Learning **System Design & Advanced Backend Architecture**
 - 👥 Open to collaborate on interesting full-stack projects
 - 💬 Believer in: *clean code + scalable design = long-lasting impact 🚀*
 
